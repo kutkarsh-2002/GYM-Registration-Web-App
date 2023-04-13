@@ -1,0 +1,98 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Akashdeep",
+      "lastName": "Garg",
+      "email": "ak@gmail.com",
+      "mobile": "8775524551",
+      "weight": 63,
+      "height": 1.67,
+      "bmi": 22.589551436050055,
+      "bmiResult": "normalWeight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quartely",
+      "important": "",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-24T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Utkarsh",
+      "lastName": "Pandey",
+      "email": "ku@gmail.com",
+      "mobile": "9334486447",
+      "weight": 58,
+      "height": 1.67,
+      "bmi": 20.796729893506402,
+      "bmiResult": "normalWeight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quartely",
+      "important": "",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-30T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Sakshi",
+      "lastName": "Dabral",
+      "email": "sakshi@gmail.com",
+      "mobile": "7126712562",
+      "weight": 56,
+      "height": 1.54,
+      "bmi": 23.61275088547816,
+      "bmiResult": "normalWeight",
+      "gender": "Female",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-03-19T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Sagar",
+      "lastName": "Kumar",
+      "email": "sk@gmail.com",
+      "mobile": "9334486447",
+      "weight": 65,
+      "height": 1.6,
+      "bmi": 25,
+      "bmiResult": "overWeight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quartely",
+      "important": [
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-22T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "Aashirwad",
+      "lastName": "Kumar",
+      "email": "ak@gmail.com",
+      "mobile": "9334486447",
+      "weight": 65,
+      "height": 1.75,
+      "bmi": 21,
+      "bmiResult": "normalWeight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quartely",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-03-30T18:30:00.000Z",
+      "id": 7
+    }
+  ]
+}

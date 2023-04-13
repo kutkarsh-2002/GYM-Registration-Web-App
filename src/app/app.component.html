@@ -1,0 +1,26 @@
+<mat-toolbar color="primary">
+  <!-- <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button> -->
+  <div class="logo">
+    <img class="logo-img" src="assets/gym.png" />
+    <h1 class="pt-2 logo-title">Gym Registration App</h1>
+  </div>
+
+  <span class="example-spacer"></span>
+
+  <button
+    mat-raised-button
+    class="example-icon"
+    aria-label="Example icon-button with share icon"
+    routerLink="/list"
+  >
+    View Enquiries
+  </button>
+</mat-toolbar>
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+<lib-ng-toast></lib-ng-toast>
+<ng-confirm></ng-confirm>

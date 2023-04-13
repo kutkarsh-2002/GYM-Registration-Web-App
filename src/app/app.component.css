@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.logo-img {
+  height: 55px;
+  width: 60px;
+  padding-right: 10px;
+}
+
+.logo-title {
+  display: inline-block;
+  font-family: "Great Vibes", cursive;
+}/*# sourceMappingURL=app.component.css.map */
